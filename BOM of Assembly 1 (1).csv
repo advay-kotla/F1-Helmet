@@ -1,9 +1,7 @@
-Item,Quantity,Part number,Description
-1,4,,
-2,2,,
-3,3,,
-4,4,,
-5,2,,
-6,3,,
-7,3,,
-8,3,,
+Part,Quantity,Part number,Description
+Gasket,1,,
+Helmet Spoiler,1,,
+Seatbealt Mount,2,,
+Visor,1,,
+Visor Cap,2,,
+
