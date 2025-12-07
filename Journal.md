@@ -31,3 +31,12 @@ I focused on finalizing the physical rear spoiler component and securing its pos
 I assigned the final material properties and colors, applying the bright neon lime/yellow and dark gray to the defined split faces. I added clear coat to the main body to give it a vibrant, and glossy look.
 
 <img width="1854" height="1454" alt="image" src="https://github.com/user-attachments/assets/fa690fb4-89ee-4d81-aec2-af51106a7d32" />
+
+// 6 - Added an automatic HANS System Integration
+
+I integrated a conceptual automated HANS mechanism into the rear neck area. This mechanism includes a grey circle button (the actuator) and a system designed to automatically deploy and fit the neck brace when pressed.
+
+<img width="1528" height="1032" alt="image" src="https://github.com/user-attachments/assets/958c1b3d-29a0-4bef-afec-4c4124df811c" />
+
+<img width="1014" height="864" alt="image" src="https://github.com/user-attachments/assets/32686c79-0041-4a83-95fe-a3e6a648d799" />
+
